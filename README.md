@@ -1,6 +1,5 @@
 # 2048 deployed on AWS EKS with fargate
-
-![image](https://github.com/user-attachments/assets/4a68956d-a611-4a31-baac-a8446d22459a)
+![image](https://github.com/user-attachments/assets/a15e991a-8dc7-418c-a363-4bbf21b9268f)
 
 # AWS EKS
 
